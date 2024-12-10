@@ -5,10 +5,11 @@
 ## 깃 전략
 ### 브랜치 네이밍 컨벤션
 ```
-main: 운영용
-develop: 개발용
-feat/{제목}: 기능 개발 브랜치
-hotfix/{제목}: 핫픽스 브랜치
+main                            : 메인 브랜치
+feat/<subject>/<title>          : 기능 개발 브랜치
+practice/<subject>/<title>      : 실습용 브랜치
+docs/<subject>/<title>          : 문서 작업용 브랜치
+hotfix/<subject>/<title>        : 핫픽스 브랜치
 ```
 
 ### 커밋 메시지 컨벤션
