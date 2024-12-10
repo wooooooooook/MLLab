@@ -1,4 +1,5 @@
 # MLLab
+## Artificial Intelligence Logistic Regression 실습
 ## 폴더 구조
 ```
 ```
@@ -11,7 +12,6 @@ practice/<subject>/<title>      : 실습용 브랜치
 docs/<subject>/<title>          : 문서 작업용 브랜치
 hotfix/<subject>/<title>        : 핫픽스 브랜치
 ```
-
 ### 커밋 메시지 컨벤션
 ```
 {분류}. {제목}
